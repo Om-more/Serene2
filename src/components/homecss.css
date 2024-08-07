@@ -1,0 +1,42 @@
+.background-image {
+    position: relative;
+    background-image: url('https://opt.net.au/wp-content/uploads/mental-health-feature.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 35vw; /* Adjust height as needed */
+    color: white;
+  }
+  .overlay-text {
+    position: absolute;
+    top: 50%;
+    font-size:3vw;
+    left:35vw;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    animation-name: anim1;
+    animation-duration: 3s; 
+  }
+  @keyframes anim1
+  {
+      from{
+          filter: opacity(0);
+      }
+      to
+      {
+         filter: opacity(1);
+      }
+  }
+  .card
+  {
+     margin: 3%;
+  }
+  #why
+  {
+    text-align: center;
+    font-size: 3vw;
+  }
+  .num1,.num2,.num3
+  {
+    font-size: 1.5vw;
+  }
+  

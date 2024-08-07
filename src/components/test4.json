@@ -1,0 +1,88 @@
+{
+    "topic": "JavaScript",
+    "level": "Beginner",
+    "totalQuestions": 10,
+    "questions": [
+      {
+        "question": "1. When I'm at work or studying, I find myself daydreaming.",
+        "choices": [
+          {"answer": "Never", "points": 0},
+          {"answer": "Sometimes", "points": 1},
+          {"answer": "Very Often", "points": 2}
+        ]
+      },
+      {
+        "question": "2. I find myself performing tasks that I had planned days before.",
+        "choices": [
+            {"answer": "Never", "points": 0},
+            {"answer": "Sometimes", "points": 1},
+            {"answer": "Very Often", "points": 2}
+        ]
+      },
+      {
+        "question": "3. I find myself doing my work at the last minute of the deadline.",
+        "choices": [
+            {"answer": "Never", "points": 0},
+            {"answer": "Sometimes", "points": 1},
+            {"answer": "Very Often", "points": 2}
+        ]
+      },
+      {
+        "question": "4. I make delays in making decisions",
+        "choices": [
+            {"answer": "Never", "points": 0},
+            {"answer": "Sometimes", "points": 1},
+            {"answer": "Very Often", "points": 2}
+        ]
+      },
+      {
+        "question": "5. I come up with excuses for not starting or completing task",
+        "choices": [
+            {"answer": "Never", "points": 0},
+            {"answer": "Sometimes", "points": 1},
+            {"answer": "Very Often", "points": 2}
+        ]
+      },
+      {
+        "question": "6. I wait to begin a task until I am in the right mood",
+        "choices": [
+            {"answer": "Never", "points": 0},
+            {"answer": "Sometimes", "points": 1},
+            {"answer": "Very Often", "points": 2}
+        ]
+      },
+      {
+        "question": "7.  I tend to underestimate the time it takes to complete a task.",
+        "choices": [
+            {"answer": "Never", "points": 0},
+            {"answer": "Sometimes", "points": 1},
+            {"answer": "Very Often", "points": 2}
+        ]
+      },
+      {
+        "question": "8. I tend to wait for someone to take the initiative on tasks.",
+        "choices": [
+            {"answer": "Never", "points": 0},
+            {"answer": "Sometimes", "points": 1},
+            {"answer": "Very Often", "points": 2}
+        ]
+      },
+      {
+        "question": "9. I find it difficult to prioritize tasks.",
+        "choices": [
+            {"answer": "Never", "points": 0},
+            {"answer": "Sometimes", "points": 1},
+            {"answer": "Very Often", "points": 2}
+        ]
+      },
+      {
+        "question": "10. I start a task and then lose my motivation.",
+        "choices": [
+            {"answer": "Never", "points": 0},
+            {"answer": "Sometimes", "points": 1},
+            {"answer": "Very Often", "points": 2}
+        ]
+      }
+    ]
+  }
+  

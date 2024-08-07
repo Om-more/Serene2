@@ -1,0 +1,88 @@
+{
+    "topic": "JavaScript",
+    "level": "Beginner",
+    "totalQuestions": 10,
+    "questions": [
+      {
+        "question": "1. Do you always feel things are against you?",
+        "choices": [
+            {"answer": "Never", "points": 0},
+            {"answer": "Sometimes", "points": 1},
+            {"answer": "Very Often", "points": 2}
+        ]
+      },
+      {
+        "question": "2. Do you have a tendency to criticise others?",
+        "choices": [
+            {"answer": "Never", "points": 0},
+            {"answer": "Sometimes", "points": 1},
+            {"answer": "Very Often", "points": 2}
+        ]
+      },
+      {
+        "question": "3. Do you feel uncomfortable when someone talks about your past life?",
+        "choices": [
+            {"answer": "Never", "points": 0},
+            {"answer": "Sometimes", "points": 1},
+            {"answer": "Very Often", "points": 2}
+        ]
+      },
+      {
+        "question": "4. Did you experienced unexpected events in past that changed your habits?",
+        "choices": [
+            {"answer": "Never", "points": 0},
+            {"answer": "Sometimes", "points": 1},
+            {"answer": "Very Often", "points": 2}
+        ]
+      },
+      {
+        "question": "5. When a problem arises between you and someone else, do you discuss it without losing control of your emotions?",
+        "choices": [
+            {"answer": "Never", "points": 0},
+            {"answer": "Sometimes", "points": 1},
+            {"answer": "Very Often", "points": 2}
+        ]
+      },
+      {
+        "question": "6. Do you become depressed easily?",
+        "choices": [
+            {"answer": "Never", "points": 0},
+            {"answer": "Sometimes", "points": 1},
+            {"answer": "Very Often", "points": 2}
+        ]
+      },
+      {
+        "question": "7. Do you often act politely even though you're fuming",
+        "choices": [
+            {"answer": "Never", "points": 0},
+            {"answer": "Sometimes", "points": 1},
+            {"answer": "Very Often", "points": 2}
+        ]
+      },
+      {
+        "question": "8. Are you satisfied with the way you settle differences with others?",
+        "choices": [
+            {"answer": "Never", "points": 0},
+            {"answer": "Sometimes", "points": 1},
+            {"answer": "Very Often", "points": 2}
+        ]
+      },
+      {
+        "question": "9. Do you get upset when others disagree with you?",
+        "choices": [
+            {"answer": "Never", "points": 0},
+            {"answer": "Sometimes", "points": 1},
+            {"answer": "Very Often", "points": 2}
+        ]
+      },
+      {
+        "question": "10. Do you tend to feel very guilty or bad after expressing your emotions?",
+        "choices": [
+            {"answer": "Never", "points": 0},
+            {"answer": "Sometimes", "points": 1},
+            {"answer": "Very Often", "points": 2}
+        ]
+      }
+    ]
+  }
+  

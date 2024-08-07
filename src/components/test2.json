@@ -1,0 +1,88 @@
+{
+    "topic": "JavaScript",
+    "level": "Beginner",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "question": "1. Do you worry about lots of different things?",
+            "choices": [
+                {"answer": "Never", "points": 0},
+                {"answer": "Sometimes", "points": 1},
+                {"answer": "Very Often", "points": 2}
+            ]
+          },
+          {
+            "question": "2. Do you have trouble controlling your worries?",
+            "choices": [
+                {"answer": "Never", "points": 0},
+                {"answer": "Sometimes", "points": 1},
+                {"answer": "Very Often", "points": 2}
+            ]
+          },
+          {
+            "question": "3. Do you get irritable and/or easily annoyed when anxious?",
+            "choices": [
+                {"answer": "Never", "points": 0},
+                {"answer": "Sometimes", "points": 1},
+                {"answer": "Very Often", "points": 2}
+            ]
+          },
+          {
+            "question": "4. Does worry or anxiety make you feel fatigued or worn out?",
+            "choices": [
+                {"answer": "Never", "points": 0},
+                {"answer": "Sometimes", "points": 1},
+                {"answer": "Very Often", "points": 2}
+            ]
+          },
+          {
+            "question": "5. Does worry or anxiety interfere with falling and/or staying asleep?",
+            "choices": [
+                {"answer": "Never", "points": 0},
+                {"answer": "Sometimes", "points": 1},
+                {"answer": "Very Often", "points": 2}
+            ]
+          },
+          {
+            "question": "6. Does worry or anxiety make it hard to concentrate?",
+            "choices": [
+                {"answer": "Never", "points": 0},
+                {"answer": "Sometimes", "points": 1},
+                {"answer": "Very Often", "points": 2}
+            ]
+          },
+          {
+            "question": "7. Do you feel jumpy?",
+            "choices": [
+                {"answer": "Never", "points": 0},
+                {"answer": "Sometimes", "points": 1},
+                {"answer": "Very Often", "points": 2}
+            ]
+          },
+          {
+            "question": "8. Do you worry about how well you do things?",
+            "choices": [
+                {"answer": "Never", "points": 0},
+                {"answer": "Sometimes", "points": 1},
+                {"answer": "Very Often", "points": 2}
+            ]
+          },
+          {
+            "question": "9. Do you worry about things working out in the future?",
+            "choices": [
+                {"answer": "Never", "points": 0},
+                {"answer": "Sometimes", "points": 1},
+                {"answer": "Very Often", "points": 2}
+            ]
+          },
+          {
+            "question": "10. Do you worry about things that have already happened in the past?",
+            "choices": [
+                {"answer": "Never", "points": 0},
+                {"answer": "Sometimes", "points": 1},
+                {"answer": "Very Often", "points": 2}
+            ]
+          }
+    ]
+  }
+  
